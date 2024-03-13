@@ -2,7 +2,7 @@
   Hi! I'm <a href="https://devbyalex.fr/">Alex</a>
 </h3>
 <h2 align="center">I'm a french Full-stack developer</h1>
-<p>🚀 Developer for several years now, specializing in web development for over a year. Passionate about creating innovative and engaging online experiences.</p>
+<p align="center">🚀 Developer for several years now, specializing in web development for over a year. Passionate about creating innovative and engaging online experiences.</p>
 
 <h1 align="center">Here are my skills</h1>
 
