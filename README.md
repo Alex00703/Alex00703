@@ -6,9 +6,9 @@
 
 <h1 align="center">I'm currently working 🚀</h1>
 <ul>
-  <li><strong>Project Name 1:</strong> Brief description of the ongoing project.</li>
-  <li><strong>Project Name 2:</strong> Brief description of the ongoing project.</li>
-  <li><strong>Project Name 3:</strong> Brief description of the ongoing project.</li>
+  <li><strong>RPS Online:</strong> A fun and interactive online game of rock, paper, scissors.</li>
+  <li><strong>AetherScans:</strong> A platform for reading webtoons and manga scans with ease.</li>
+  <li><strong>Planizy:</strong> An intuitive website designed to help you manage your schedule and organize your projects efficiently.</li>
 </ul>
 
 <h1 align="center">Here are my skills 🔥</h1>
