@@ -5,9 +5,9 @@
 <p align="center">Developer for several years now, specializing in web development for over a year. Passionate about creating innovative and engaging online experiences.</p>
 
 <h1 align="center">I'm currently working 🚀</h1>
-- **RPS Online**: Rock, Paper, Scissors online game
-- **AetherScans**: Website to read webtoon and manga scans
-- **Planizy**: Website to manage your schedule and organize your projects
+- **Project Name 1:** Brief description of the ongoing project.
+- **Project Name 2:** Brief description of the ongoing project.
+- **Project Name 3:** Brief description of the ongoing project.
 
 <h1 align="center">Here are my skills 🔥</h1>
 
