@@ -5,9 +5,11 @@
 <p align="center">Developer for several years now, specializing in web development for over a year. Passionate about creating innovative and engaging online experiences.</p>
 
 <h1 align="center">I'm currently working 🚀</h1>
-- **Project Name 1:** Brief description of the ongoing project.
-- **Project Name 2:** Brief description of the ongoing project.
-- **Project Name 3:** Brief description of the ongoing project.
+<ul>
+  <li><strong>Project Name 1:</strong> Brief description of the ongoing project.</li>
+  <li><strong>Project Name 2:</strong> Brief description of the ongoing project.</li>
+  <li><strong>Project Name 3:</strong> Brief description of the ongoing project.</li>
+</ul>
 
 <h1 align="center">Here are my skills 🔥</h1>
 
