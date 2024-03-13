@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hi! I'm <a href="https://devbyalex.fr/">Alex</a>
+  Hi! I'm <a href="https://devbyalex.fr/" target="_blank">Alex</a>
 </h3>
 <h2 align="center">💻 I'm a 🇫🇷 French Full-stack developer</h1>
 <p align="center">Developer for several years now, specializing in web development for over a year. Passionate about creating innovative and engaging online experiences.</p>
