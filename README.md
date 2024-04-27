@@ -6,7 +6,7 @@
 
 <h1 align="center">🚀 I'm currently working on</h1>
 <ul>
-  <li><strong>RPS Online:</strong> A fun and interactive online game of rock, paper, scissors.</li>
+  <li><strong>Silezia:</strong> My Minecraft PvP Factions server with a japan theme.</li>
   <li><strong>AetherScans:</strong> A platform for reading webtoons and manga scans with ease.</li>
   <li><strong>Planizy:</strong> An intuitive website designed to help you manage your schedule and organize your projects efficiently.</li>
 </ul>
