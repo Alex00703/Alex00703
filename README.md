@@ -9,6 +9,7 @@
   <li><strong>Silezia:</strong> My Minecraft PvP Factions server with a japan theme.</li>
   <li><strong>AetherScans:</strong> A platform for reading webtoons and manga scans with ease.</li>
   <li><strong>Planizy:</strong> An intuitive website designed to help you manage your schedule and organize your projects efficiently.</li>
+  <li><strong>Immortal Launcher:</strong> A launcher for Riot Games with a profile switching system and some features.</li>
 </ul>
 
 <h1 align="center">🔥 Here are my skills</h1>
