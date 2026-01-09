@@ -13,10 +13,10 @@ Building modern web applications with clean code and great UX.
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React, Vue.js, TypeScript, JavaScript  
-**Backend:** AdonisJS, Node.js, Laravel, Symfony, PHP  
-**Database:** MongoDB, MySQL, MariaDB  
-**Tools:** Docker, Inertia.js, Figma
+**Frontend:** React, Vue.js, TypeScript, JavaScript, Inertia.js
+**Backend:** AdonisJS, Node.js, Laravel, Symfony, PHP, RabbitMQ, REST API, GraphQL
+**Database:** MongoDB, MySQL, MariaDB, PostgreSQL, Redis
+**Tools:** Docker, Figma, Nginx, Apache
 
 ---
 
